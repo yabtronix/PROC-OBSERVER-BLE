@@ -1,13 +1,13 @@
-Loading plugins phase: Elapsed time ==> 1s.506ms
+Loading plugins phase: Elapsed time ==> 0s.200ms
 Initializing data phase: Elapsed time ==> 0s.000ms
 <CYPRESSTAG name="CyDsfit arguments...">
-cydsfit arguments: -.fdsnotice -.fdswarpdepfile=warp_dependencies.txt -.fdselabdepfile=elab_dependencies.txt -.fdsbldfile=generated_files.txt -p V:\Dropbox\Yabtronix\Technique\YAB-014 BLE Observer\Firmware\Observer YB\YAB Observer.cydsn\YAB Observer.cyprj -d CYBLE-022001-00 -s V:\Dropbox\Yabtronix\Technique\YAB-014 BLE Observer\Firmware\Observer YB\YAB Observer.cydsn\Generated_Source\PSoC4 -- -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE</CYPRESSTAG>
+cydsfit arguments: -.fdsnotice -.fdswarpdepfile=warp_dependencies.txt -.fdselabdepfile=elab_dependencies.txt -.fdsbldfile=generated_files.txt -p C:\Users\ybourassa\Documents\GitHub\PROC-OBSERVER-BLE\YAB Observer.cydsn\YAB Observer.cyprj -d CYBLE-022001-00 -s C:\Users\ybourassa\Documents\GitHub\PROC-OBSERVER-BLE\YAB Observer.cydsn\Generated_Source\PSoC4 -- -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE</CYPRESSTAG>
 <CYPRESSTAG name="Design elaboration results...">
 </CYPRESSTAG>
-Elaboration phase: Elapsed time ==> 4s.307ms
+Elaboration phase: Elapsed time ==> 1s.467ms
 <CYPRESSTAG name="HDL generation results...">
 </CYPRESSTAG>
-HDL generation phase: Elapsed time ==> 0s.046ms
+HDL generation phase: Elapsed time ==> 0s.051ms
 <CYPRESSTAG name="Synthesis results...">
 
      | | | | | | |
@@ -25,23 +25,23 @@ HDL generation phase: Elapsed time ==> 0s.046ms
 ======================================================================
 Compiling:  YAB Observer.v
 Program  :   C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\bin/warp.exe
-Options  :    -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=V:\Dropbox\Yabtronix\Technique\YAB-014 BLE Observer\Firmware\Observer YB\YAB Observer.cydsn\YAB Observer.cyprj -dcpsoc3 YAB Observer.v -verilog
+Options  :    -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=C:\Users\ybourassa\Documents\GitHub\PROC-OBSERVER-BLE\YAB Observer.cydsn\YAB Observer.cyprj -dcpsoc3 YAB Observer.v -verilog
 ======================================================================
 
 ======================================================================
 Compiling:  YAB Observer.v
 Program  :   C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\bin/warp.exe
-Options  :    -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=V:\Dropbox\Yabtronix\Technique\YAB-014 BLE Observer\Firmware\Observer YB\YAB Observer.cydsn\YAB Observer.cyprj -dcpsoc3 YAB Observer.v -verilog
+Options  :    -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=C:\Users\ybourassa\Documents\GitHub\PROC-OBSERVER-BLE\YAB Observer.cydsn\YAB Observer.cyprj -dcpsoc3 YAB Observer.v -verilog
 ======================================================================
 
 ======================================================================
 Compiling:  YAB Observer.v
 Program  :   vlogfe
-Options  :    -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=V:\Dropbox\Yabtronix\Technique\YAB-014 BLE Observer\Firmware\Observer YB\YAB Observer.cydsn\YAB Observer.cyprj -dcpsoc3 -verilog YAB Observer.v
+Options  :    -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=C:\Users\ybourassa\Documents\GitHub\PROC-OBSERVER-BLE\YAB Observer.cydsn\YAB Observer.cyprj -dcpsoc3 -verilog YAB Observer.v
 ======================================================================
 
 vlogfe V6.3 IR 41:  Verilog parser
-Mon Mar 21 21:10:05 2016
+Mon Mar 21 21:52:28 2016
 
 
 ======================================================================
@@ -51,7 +51,7 @@ Options  :    -yv2 -q10 YAB Observer.v
 ======================================================================
 
 vpp V6.3 IR 41:  Verilog Pre-Processor
-Mon Mar 21 21:10:05 2016
+Mon Mar 21 21:52:28 2016
 
 Flattening file 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\ZeroTerminal\ZeroTerminal.v'
 Flattening file 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\cy_virtualmux_v1_0\cy_virtualmux_v1_0.v'
@@ -80,11 +80,11 @@ vlogfe:  No errors.
 ======================================================================
 Compiling:  YAB Observer.v
 Program  :   tovif
-Options  :    -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=V:\Dropbox\Yabtronix\Technique\YAB-014 BLE Observer\Firmware\Observer YB\YAB Observer.cydsn\YAB Observer.cyprj -dcpsoc3 -verilog YAB Observer.v
+Options  :    -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=C:\Users\ybourassa\Documents\GitHub\PROC-OBSERVER-BLE\YAB Observer.cydsn\YAB Observer.cyprj -dcpsoc3 -verilog YAB Observer.v
 ======================================================================
 
 tovif V6.3 IR 41:  High-level synthesis
-Mon Mar 21 21:10:05 2016
+Mon Mar 21 21:52:29 2016
 
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\common\std.vhd'.
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\common\cypress.vhd'.
@@ -95,9 +95,9 @@ Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\c
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\common\stdlogic\mod_cnst.vif'.
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\common\stdlogic\mod_mthv.vif'.
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\common\stdlogic\mod_genv.vif'.
-Linking 'V:\Dropbox\Yabtronix\Technique\YAB-014 BLE Observer\Firmware\Observer YB\YAB Observer.cydsn\codegentemp\YAB Observer.ctl'.
+Linking 'C:\Users\ybourassa\Documents\GitHub\PROC-OBSERVER-BLE\YAB Observer.cydsn\codegentemp\YAB Observer.ctl'.
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\ZeroTerminal\ZeroTerminal.v'.
-Linking 'V:\Dropbox\Yabtronix\Technique\YAB-014 BLE Observer\Firmware\Observer YB\YAB Observer.cydsn\codegentemp\YAB Observer.v'.
+Linking 'C:\Users\ybourassa\Documents\GitHub\PROC-OBSERVER-BLE\YAB Observer.cydsn\codegentemp\YAB Observer.v'.
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\cy_virtualmux_v1_0\cy_virtualmux_v1_0.v'.
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\or_v1_0\or_v1_0.v'.
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\cy_constant_v1_0\cy_constant_v1_0.v'.
@@ -108,11 +108,11 @@ tovif:  No errors.
 ======================================================================
 Compiling:  YAB Observer.v
 Program  :   topld
-Options  :    -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=V:\Dropbox\Yabtronix\Technique\YAB-014 BLE Observer\Firmware\Observer YB\YAB Observer.cydsn\YAB Observer.cyprj -dcpsoc3 -verilog YAB Observer.v
+Options  :    -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=C:\Users\ybourassa\Documents\GitHub\PROC-OBSERVER-BLE\YAB Observer.cydsn\YAB Observer.cyprj -dcpsoc3 -verilog YAB Observer.v
 ======================================================================
 
 topld V6.3 IR 41:  Synthesis and optimization
-Mon Mar 21 21:10:05 2016
+Mon Mar 21 21:52:40 2016
 
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\common\std.vhd'.
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\common\cypress.vhd'.
@@ -123,9 +123,9 @@ Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\c
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\common\stdlogic\mod_cnst.vif'.
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\common\stdlogic\mod_mthv.vif'.
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\common\stdlogic\mod_genv.vif'.
-Linking 'V:\Dropbox\Yabtronix\Technique\YAB-014 BLE Observer\Firmware\Observer YB\YAB Observer.cydsn\codegentemp\YAB Observer.ctl'.
+Linking 'C:\Users\ybourassa\Documents\GitHub\PROC-OBSERVER-BLE\YAB Observer.cydsn\codegentemp\YAB Observer.ctl'.
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\ZeroTerminal\ZeroTerminal.v'.
-Linking 'V:\Dropbox\Yabtronix\Technique\YAB-014 BLE Observer\Firmware\Observer YB\YAB Observer.cydsn\codegentemp\YAB Observer.v'.
+Linking 'C:\Users\ybourassa\Documents\GitHub\PROC-OBSERVER-BLE\YAB Observer.cydsn\codegentemp\YAB Observer.v'.
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\cy_virtualmux_v1_0\cy_virtualmux_v1_0.v'.
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\or_v1_0\or_v1_0.v'.
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\cy_constant_v1_0\cy_constant_v1_0.v'.
@@ -199,16 +199,16 @@ topld:  No errors.
 
 CYPRESS_DIR    : C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp
 Warp Program   : C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\bin/warp.exe
-Warp Arguments : -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya "-.fftprj=V:\Dropbox\Yabtronix\Technique\YAB-014 BLE Observer\Firmware\Observer YB\YAB Observer.cydsn\YAB Observer.cyprj" -dcpsoc3 "YAB Observer.v" -verilog
+Warp Arguments : -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya "-.fftprj=C:\Users\ybourassa\Documents\GitHub\PROC-OBSERVER-BLE\YAB Observer.cydsn\YAB Observer.cyprj" -dcpsoc3 "YAB Observer.v" -verilog
 </CYPRESSTAG>
-Warp synthesis phase: Elapsed time ==> 0s.300ms
+Warp synthesis phase: Elapsed time ==> 24s.107ms
 <CYPRESSTAG name="Fitter results...">
 <CYPRESSTAG name="Fitter startup details...">
-cyp3fit: V3.3.0.410, Family: PSoC3, Started at: Monday, 21 March 2016 21:10:05
-Options: -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=V:\Dropbox\Yabtronix\Technique\YAB-014 BLE Observer\Firmware\Observer YB\YAB Observer.cydsn\YAB Observer.cyprj -d CYBLE-022001-00 YAB Observer.v -verilog
+cyp3fit: V3.3.0.410, Family: PSoC3, Started at: Monday, 21 March 2016 21:52:53
+Options: -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=C:\Users\ybourassa\Documents\GitHub\PROC-OBSERVER-BLE\YAB Observer.cydsn\YAB Observer.cyprj -d CYBLE-022001-00 YAB Observer.v -verilog
 </CYPRESSTAG>
 <CYPRESSTAG name="Design parsing">
-Design parsing phase: Elapsed time ==> 0s.004ms
+Design parsing phase: Elapsed time ==> 0s.008ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Tech mapping">
 <CYPRESSTAG name="Initial Mapping" icon="FILE_RPT_TECHM">
@@ -371,20 +371,20 @@ DAC                           :      :      :      :
   7-bit IDAC                  :    0 :    1 :    1 :  0.00 %
   8-bit IDAC                  :    0 :    1 :    1 :  0.00 %
 </CYPRESSTAG>
-Technology Mapping: Elapsed time ==> 0s.004ms
-Tech mapping phase: Elapsed time ==> 0s.027ms
+Technology Mapping: Elapsed time ==> 0s.005ms
+Tech mapping phase: Elapsed time ==> 0s.017ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Analog Placement">
 <CYPRESSTAG name="Analog Placement">
-Elapsed time ==> 0.0419199s
+Elapsed time ==> 0.0422354s
 </CYPRESSTAG>
-Analog Placement phase: Elapsed time ==> 0s.187ms
+Analog Placement phase: Elapsed time ==> 0s.151ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Analog Routing">
 <CYPRESSTAG name="Analog Routing">
-Route success=True, Iterations=1 Elapsed=0.0005192 secs
+Route success=True, Iterations=1 Elapsed=0.0005339 secs
 </CYPRESSTAG>
-Analog Routing phase: Elapsed time ==> 0s.000ms
+Analog Routing phase: Elapsed time ==> 0s.001ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Analog Code Generation">
 ============ Analog Final Answer Routes ============
@@ -395,7 +395,7 @@ Map of item to net {
 }
 Mux Info {
 }
-Analog Code Generation phase: Elapsed time ==> 0s.013ms
+Analog Code Generation phase: Elapsed time ==> 0s.022ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Digital Placement">
 <CYPRESSTAG name="Detailed placement messages">
@@ -417,7 +417,7 @@ Final Partitioning Summary not displayed at this verbose level.</CYPRESSTAG>
 Partitioning: Elapsed time ==> 0s.006ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Simulated Annealing">
-Annealing: Elapsed time ==> 0s.001ms
+Annealing: Elapsed time ==> 0s.000ms
 <CYPRESSTAG name="Simulated Annealing Results">
 The seed used for moves was 114161200.
 Inital cost was 16, final cost is 16 (0.00% improvement).</CYPRESSTAG>
@@ -624,31 +624,31 @@ Port | Pin | Fixed |      Type |       Drive Mode |         Name | Connections
 </CYPRESSTAG>
 </CYPRESSTAG>
 Digital component placer commit/Report: Elapsed time ==> 0s.001ms
-Digital Placement phase: Elapsed time ==> 0s.733ms
+Digital Placement phase: Elapsed time ==> 0s.342ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Digital Routing">
 Routing successful.
-Digital Routing phase: Elapsed time ==> 0s.422ms
+Digital Routing phase: Elapsed time ==> 0s.357ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Bitstream and API generation">
-Bitstream and API generation phase: Elapsed time ==> 0s.232ms
+Bitstream and API generation phase: Elapsed time ==> 0s.200ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Bitstream verification">
-Bitstream verification phase: Elapsed time ==> 0s.018ms
+Bitstream verification phase: Elapsed time ==> 0s.019ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Static timing analysis">
 Timing report is in YAB Observer_timing.html.
-Static timing analysis phase: Elapsed time ==> 0s.197ms
+Static timing analysis phase: Elapsed time ==> 0s.124ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Data reporting">
 Data reporting phase: Elapsed time ==> 0s.000ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Database update...">
-Design database save phase: Elapsed time ==> 0s.096ms
+Design database save phase: Elapsed time ==> 0s.117ms
 </CYPRESSTAG>
-cydsfit: Elapsed time ==> 1s.942ms
+cydsfit: Elapsed time ==> 1s.369ms
 </CYPRESSTAG>
-Fitter phase: Elapsed time ==> 1s.981ms
-API generation phase: Elapsed time ==> 0s.889ms
-Dependency generation phase: Elapsed time ==> 0s.016ms
-Cleanup phase: Elapsed time ==> 0s.002ms
+Fitter phase: Elapsed time ==> 1s.404ms
+API generation phase: Elapsed time ==> 0s.973ms
+Dependency generation phase: Elapsed time ==> 0s.017ms
+Cleanup phase: Elapsed time ==> 0s.001ms

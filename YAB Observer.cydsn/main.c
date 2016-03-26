@@ -204,7 +204,7 @@ int main()
     /*Infinite Loop*/
     for(;;)
     {
-            CyBle_ProcessEvents();
+        CyBle_ProcessEvents();
     }
  }
 /* [] END OF FILE */
