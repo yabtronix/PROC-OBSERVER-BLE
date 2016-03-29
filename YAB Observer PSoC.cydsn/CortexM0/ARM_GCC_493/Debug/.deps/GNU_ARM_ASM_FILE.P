@@ -1,8 +1,0 @@
-C:/Users/ybourassa/Documents/GitHub/PROC-OBSERVER-BLE/YAB\ Observer\ PSoC.cydsn/CortexM0/ARM_GCC_493/Debug/CyBootAsmGnu.o : C:/Users/ybourassa/Documents/GitHub/PROC-OBSERVER-BLE/YAB\ Observer\ PSoC.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s C:/Users/ybourassa/Documents/GitHub/PROC-OBSERVER-BLE/YAB\ Observer\ PSoC.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc C:/Users/ybourassa/Documents/GitHub/PROC-OBSERVER-BLE/YAB\ Observer\ PSoC.cydsn/Generated_Source/PSoC4/cyfittergnu.inc 
-
-C:/Users/ybourassa/Documents/GitHub/PROC-OBSERVER-BLE/YAB\ Observer\ PSoC.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s : 
-
-C:/Users/ybourassa/Documents/GitHub/PROC-OBSERVER-BLE/YAB\ Observer\ PSoC.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc : 
-
-C:/Users/ybourassa/Documents/GitHub/PROC-OBSERVER-BLE/YAB\ Observer\ PSoC.cydsn/Generated_Source/PSoC4/cyfittergnu.inc : 
-

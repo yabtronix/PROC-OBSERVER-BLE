@@ -1,0 +1,5 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|6d42adae-4a76-44ef-999d-be3b201b2ee2
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|f67f71c9-9693-4485-9599-740e368c94c3
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|46489b78-b297-49d0-876b-d10162e74d5b
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|91ae794a-9e4d-4ae2-a93c-24442c324879
+C:\Users\ybourassa\Documents\GitHub\PROC-OBSERVER-BLE\YAB Observer PRoC.cydsn\YAB Observer PRoC.cyprj|292ac050-8171-4c6e-82c3-a0a0db74928e

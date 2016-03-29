@@ -183,6 +183,41 @@
 <v>YAB Observer\YAB Observer PSoC\CortexM0</v>
 <v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493</v>
 <v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug</v>
+<v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug\Listing Files</v>
+<v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug\Listing Files\BLE.lst</v>
+<v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug\Listing Files\BLE_bless_isr.lst</v>
+<v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug\Listing Files\BLE_custom.lst</v>
+<v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug\Listing Files\BLE_eventHandler.lst</v>
+<v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug\Listing Files\BLE_gatt.lst</v>
+<v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug\Listing Files\BLE_HAL_INT.lst</v>
+<v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug\Listing Files\BLE_HAL_PVT.lst</v>
+<v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug\Listing Files\Cm0Start.lst</v>
+<v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug\Listing Files\common.lst</v>
+<v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug\Listing Files\CyFlash.lst</v>
+<v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug\Listing Files\CyLFClk.lst</v>
+<v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug\Listing Files\CyLib.lst</v>
+<v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug\Listing Files\cymetadata.lst</v>
+<v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug\Listing Files\cyPm.lst</v>
+<v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug\Listing Files\cyutils.lst</v>
+<v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug\Listing Files\main.lst</v>
+<v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug\Listing Files\UART.lst</v>
+<v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_BOOT.lst</v>
+<v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_PM.lst</v>
+<v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_rx.lst</v>
+<v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_SCBCLK.lst</v>
+<v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_SPI_UART.lst</v>
+<v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_SPI_UART_INT.lst</v>
+<v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_tx.lst</v>
+<v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_UART.lst</v>
+<v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_UART_BOOT.lst</v>
+<v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug\YAB Observer PSoC.elf</v>
+<v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug\YAB Observer PSoC.hex</v>
+<v>YAB Observer\YAB Observer PSoC\CortexM0\ARM_GCC_493\Debug\YAB Observer PSoC.map</v>
+<v>YAB Observer\YAB Observer PSoC\YAB Observer PSoC.gpdsc</v>
+<v>YAB Observer\YAB Observer PSoC\YAB Observer PSoC.rpt</v>
+<v>YAB Observer\YAB Observer PSoC\YAB Observer PSoC_timing.html</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStates>
@@ -197,10 +232,6 @@
 <v>YAB Observer\YAB Observer PSoC\PSoC 4 Architecture TRM</v>
 <v>YAB Observer\YAB Observer PSoC\PSoC 4200 BLE Family Datasheet</v>
 <v>YAB Observer\YAB Observer PSoC\System Reference Guides</v>
-<v>YAB Observer\YAB Observer PSoC\System Reference Guides\cy_boot_v5_20</v>
-<v>YAB Observer\YAB Observer PSoC\System Reference Guides\cy_lfclk_v1_0</v>
-<v>YAB Observer\YAB Observer PSoC\BLE_v2_30.pdf</v>
-<v>YAB Observer\YAB Observer PSoC\SCB_P4_v3_0.pdf</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>YAB Observer</v>
@@ -221,11 +252,7 @@
 </userData>
 </CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
 <Unloaded />
-<OpenDocs>
-<name v=".\YAB Observer.cydsn\TopDesign\TopDesign.cysch" />
-<name v=".\YAB Observer.cydsn\main.c" />
-<name v=".\YAB Observer.cydsn\YAB Observer.cydwr" />
-</OpenDocs>
+<OpenDocs />
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
